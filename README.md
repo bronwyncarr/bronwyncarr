@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a **Diploma of IT.**
 - 🌱 I’m currently learning **more JS, React and Node.**
 - ✈️ I'm also an **airline pilot.**
-- 🤔 I'm always **learning and keen for any advice.**
+- 🤔 I'm perpetually **learning and keen for any advice.**
 - 👯 I'm always keen to **collaborate, share ideas or just chat.**
 
 <h3 align="left">Let's Connect:</h3>
