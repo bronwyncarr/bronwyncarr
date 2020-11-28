@@ -12,7 +12,7 @@
 
 - 👯 I'm always keen to **collaborate, share ideas or just chat.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://twitter.com/_bronwyn_carr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_bronwyn_carr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bronwyncarr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bronwyncarr" height="30" width="40" /></a>
