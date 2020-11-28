@@ -11,13 +11,13 @@
 - 🤔 I'm always **learning and keen for any advise.**
 
 - 👯 I'm always keen to **collaborate, share ideas or just chat.**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_bronwyn_carr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_bronwyn_carr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bronwyncarr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bronwyncarr" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bronwyncarr&layout=compact&langs_count=8)](https://github.com/bronwyncarr/github-readme-stats)
