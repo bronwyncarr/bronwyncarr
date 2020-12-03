@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bronwyn</h1>
-<h3 align="center">I'm at student at Coder Academy.</h3>
+<h3 align="center">I'm an enthusiastic student at Coder Academy, learning more about web development every day.</h3>
 <br>
 
 - 🔭 I’m currently working on a **Diploma of IT.**
 - 🌱 I’m currently learning **more JS, React and Node.**
 - ✈️ I'm also an **airline pilot.**
 - 🤔 I'm perpetually **learning and keen for any advice.**
-- 👯 I'm always keen to **collaborate, share ideas or just chat.**
+- 👯 I'm always keen to **collaborate, share ideas or just have a chat!**
 
-<h3 align="left">Let's Connect:</h3>
+<h3 align="left">📫 Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/_bronwyn_carr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_bronwyn_carr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bronwyncarr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bronwyncarr" height="30" width="40" /></a>
