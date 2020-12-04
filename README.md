@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bronwyn</h1>
-<h3 align="center">I'm an enthusiastic junior developer, learning more every day!</h3>
-<h3 align="center">I love full stack and solving problems with code.</h3>
+<h3 align="center">I'm an enthusiastic junior developer, learning more every day!
+ <br> I love full stack and solving problems with code.</h3>
 <br>
 
 - 🔭 I’m currently working on a **Diploma of IT at Coder Academy.**
