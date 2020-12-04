@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bronwyn</h1>
-<h3 align="center">I'm an enthusiastic student at Coder Academy, learning more about web development every day.</h3>
+<h3 align="center">I'm an enthusiastic junior developer, learning more about web development every day!</h3>
 <br>
 
-- 🔭 I’m currently working on a **Diploma of IT.**
+- 🔭 I’m currently working on a **Diploma of IT at Coder Academy.**
 - 🌱 I’m currently learning **more JS, React and Node.**
 - ✈️ I'm also an **airline pilot.**
-- 🤔 I'm perpetually **learning and keen for any advice.**
+- 🤔 I'm continually **learning and keen for any advice.**
 - 👯 I'm always keen to **collaborate, share ideas or just have a chat!**
 
 <h3 align="left">📫 Let's Connect:</h3>
