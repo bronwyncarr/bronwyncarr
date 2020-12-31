@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bronwyn</h1>
+<h1 align="center">Hi, I'm Bronwyn 👋</h1>
 <h3 align="center">I'm a nmotivated and enthusiastic junior developer, learning more every day!
  <br> I love full stack and solving problems with code.</h3>
 <br>
@@ -20,8 +20,6 @@
 
 <!--
 **bronwyncarr/bronwyncarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
