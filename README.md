@@ -3,7 +3,7 @@
  <br> I love full stack and solving problems with code.</h3>
 <br>
 
-- 🔭 I’mve recently completed a **Diploma of IT at Coder Academy.**
+- 🔭 I’ve recently completed a **Diploma of IT at Coder Academy.**
 - 🌱 I’m currently learning **more JS, React and Node.**
 - ✈️ I'm also an **airline pilot.**
 - 🤔 I'm continually **learning and keen for any advice.**
