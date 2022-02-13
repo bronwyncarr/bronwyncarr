@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Bronwyn 👋</h1>
 <br>
 
-- 🔭 I’ve recently completed a **Diploma of IT at Coder Academy.**
-- 🌱 I’m currently learning **more JS, React and Node.**
+- 🔭 I’m a software engineer for a consulting company.**
+- 🌱 I’m currently working with **JavaScript, TypeScript, React.**
 - ✈️ I'm also an **airline pilot.**
-- 🤔 I'm continually **learning and keen for any advice.**
+- 🤔 I'm continually **learning and exploring new ideas.**
 - 👯 I'm always keen to **collaborate, share ideas or just have a chat!**
 
 <h3 align="left">📫 Let's Connect:</h3>
