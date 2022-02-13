@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bronwyn 👋</h1>
 <br>
 
-- 🔭 I’m a software engineer for a consulting company.**
+- 🔭 I’m a software engineer for a consulting company.
 - 🌱 I’m currently working with **JavaScript, TypeScript, React.**
 - ✈️ I'm also an **airline pilot.**
 - 🤔 I'm continually **learning and exploring new ideas.**
