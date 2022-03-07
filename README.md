@@ -9,7 +9,6 @@
 
 <h3 align="left">📫 Let's Connect:</h3>
 <p align="left">
-<a href="https://twitter.com/_bronwyn_carr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="_bronwyn_carr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bronwyncarr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bronwyncarr" height="30" width="40" /></a>
 </p>
 <br>
